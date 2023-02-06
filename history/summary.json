@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redconsulting.it.ico",
     "slug": "red-consulting",
     "status": "up",
-    "uptime": "12.75%",
-    "uptimeDay": "12.75%",
-    "uptimeWeek": "12.75%",
-    "uptimeMonth": "12.75%",
-    "uptimeYear": "12.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4459,
     "timeDay": 4459,
     "timeWeek": 4459,
     "timeMonth": 4459,
     "timeYear": 4459,
-    "dailyMinutesDown": {
-      "2023-02-06": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RefineAIR MQTT",
