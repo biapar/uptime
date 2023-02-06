@@ -11,6 +11,10 @@ sites:
     url: https://news.ycombinator.com
   - name: Red Consulting
     url: https://www.redconsulting.it
+  - name: RefineAIR MQTT
+    check: "tcp-ping"
+    url: mqtt.refineair.it
+    port: 1883
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
