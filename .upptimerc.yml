@@ -9,14 +9,14 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Red Consulting
+    url: https://www.redconsulting.it
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: www.redconsulting.it
-  # baseUrl: /your-repo-name
+  #cname: www.redconsulting.it
+  baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
