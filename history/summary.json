@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redconsulting.it.ico",
     "slug": "red-consulting",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 793,
-    "timeDay": 576,
-    "timeWeek": 703,
-    "timeMonth": 685,
-    "timeYear": 793,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 786,
+    "timeDay": 550,
+    "timeWeek": 647,
+    "timeMonth": 688,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2023-02-09": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 237,
-    "timeWeek": 311,
-    "timeMonth": 296,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 245,
+    "timeWeek": 295,
+    "timeMonth": 294,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   }
 ]
