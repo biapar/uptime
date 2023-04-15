@@ -24,7 +24,7 @@
     "url": "mqtt.refineair.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "refine-air-mqtt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 340,
     "timeMonth": 317,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 0
+    }
   }
 ]
