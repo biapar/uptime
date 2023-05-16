@@ -1,7 +1,7 @@
 url: mqtt.refineair.it
-status: up
-code: 200
-responseTime: 242
-lastUpdated: 2023-05-15T23:14:08.106Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-05-16T18:54:21.838Z
 startTime: Mon Feb 06 2023 20:30:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
