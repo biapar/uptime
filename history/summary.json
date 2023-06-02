@@ -4,7 +4,7 @@
     "url": "http://www.redconsulting.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.redconsulting.it.ico",
     "slug": "red-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 695,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2023-06-02": 0,
       "2023-02-09": 28
     }
   },
