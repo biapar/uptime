@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 168,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 174,
+    "timeDay": 212,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-06-02": 920,
+      "2024-06-03": 79,
+      "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
@@ -31,14 +32,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "refine-air-mqtt",
     "status": "up",
-    "uptime": "93.27%",
+    "uptime": "93.28%",
     "uptimeDay": "92.35%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "91.25%",
     "time": 251,
-    "timeDay": 107,
-    "timeWeek": 117,
+    "timeDay": 99,
+    "timeWeek": 118,
     "timeMonth": 121,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -87,8 +88,7 @@
       "2023-06-09": 21,
       "2023-06-07": 443,
       "2023-06-06": 161,
-      "2023-06-05": 1198,
-      "2023-06-04": 1440
+      "2023-06-05": 1198
     }
   }
 ]
