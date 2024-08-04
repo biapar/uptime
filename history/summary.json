@@ -16,7 +16,7 @@
     "timeMonth": 217,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-08-04": 25,
+      "2024-08-04": 930,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
@@ -93,8 +93,8 @@
     "url": "mqtt.refineair.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "refine-air-mqtt",
-    "status": "up",
-    "uptime": "93.69%",
+    "status": "down",
+    "uptime": "93.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
@@ -105,6 +105,7 @@
     "timeMonth": 112,
     "timeYear": 198,
     "dailyMinutesDown": {
+      "2024-08-04": 0,
       "2024-08-02": 23,
       "2024-07-03": 861,
       "2024-07-02": 1440,
