@@ -4,12 +4,12 @@
     "url": "http://www.bware360.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.bware360.it.ico",
     "slug": "b-ware360",
-    "status": "up",
-    "uptime": "93.52%",
-    "uptimeDay": "15.17%",
-    "uptimeWeek": "12.23%",
-    "uptimeMonth": "46.16%",
-    "uptimeYear": "93.52%",
+    "status": "down",
+    "uptime": "93.53%",
+    "uptimeDay": "15.98%",
+    "uptimeWeek": "12.35%",
+    "uptimeMonth": "46.21%",
+    "uptimeYear": "93.53%",
     "time": 236,
     "timeDay": 255,
     "timeWeek": 284,
@@ -33,7 +33,7 @@
       "2025-01-21": 1390,
       "2025-01-20": 1388,
       "2025-01-19": 1411,
-      "2025-01-18": 1193
+      "2025-01-18": 1167
     }
   },
   {
