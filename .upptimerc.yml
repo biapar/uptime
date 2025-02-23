@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: BWare360
-    url: http://www.bware360.it
+    url: https://www.bware360.it
   - name: RefineAIR MQTT
     check: "tcp-ping"
     url: mqtt.refineair.it
