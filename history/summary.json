@@ -4,15 +4,15 @@
     "url": "https://www.bware360.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.bware360.it.ico",
     "slug": "b-ware360",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "57.00%",
-    "uptimeWeek": "54.34%",
-    "uptimeMonth": "89.49%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "57.52%",
+    "uptimeWeek": "54.68%",
+    "uptimeMonth": "89.57%",
+    "uptimeYear": "98.93%",
     "time": 243,
-    "timeDay": 250,
-    "timeWeek": 236,
+    "timeDay": 247,
+    "timeWeek": 235,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2025-03-18": 970,
       "2025-03-17": 907,
       "2025-03-16": 1064,
-      "2025-03-15": 251
+      "2025-03-15": 216
     }
   },
   {
@@ -32,7 +32,7 @@
     "slug": "refine-air-mqtt",
     "status": "up",
     "uptime": "95.48%",
-    "uptimeDay": "76.50%",
+    "uptimeDay": "78.41%",
     "uptimeWeek": "92.90%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.66%",
