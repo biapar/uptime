@@ -6,8 +6,8 @@
     "slug": "b-ware360",
     "status": "up",
     "uptime": "77.16%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "5.08%",
+    "uptimeWeek": "0.73%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "67.26%",
     "time": 267,
@@ -165,7 +165,7 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.97%",
     "time": 123,
-    "timeDay": 149,
+    "timeDay": 153,
     "timeWeek": 129,
     "timeMonth": 125,
     "timeYear": 124,
@@ -235,8 +235,7 @@
       "2025-04-13": 143,
       "2025-03-20": 373,
       "2025-03-19": 343,
-      "2024-11-17": 21,
-      "2024-11-02": 177
+      "2024-11-17": 21
     }
   }
 ]
