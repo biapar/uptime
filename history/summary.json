@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bware360.it.ico",
     "slug": "b-ware360",
     "status": "down",
-    "uptime": "77.92%",
+    "uptime": "77.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -175,12 +175,12 @@
     "url": "mqtt.refineair.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "refine-air-mqtt",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "96.59%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "97.05%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "72.02%",
-    "uptimeYear": "94.77%",
+    "uptimeMonth": "73.48%",
+    "uptimeYear": "94.98%",
     "time": 124,
     "timeDay": 129,
     "timeWeek": 131,
@@ -281,8 +281,7 @@
       "2025-06-30": 26,
       "2025-06-29": 489,
       "2025-06-28": 49,
-      "2025-06-26": 696,
-      "2025-06-25": 504
+      "2025-06-26": 78
     }
   }
 ]
