@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "62.89%",
     "time": 272,
-    "timeDay": 170,
+    "timeDay": 227,
     "timeWeek": 211,
     "timeMonth": 224,
     "timeYear": 272,
@@ -177,17 +177,17 @@
     "slug": "refine-air-mqtt",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "95.08%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "95.07%",
     "time": 124,
     "timeDay": 122,
-    "timeWeek": 121,
-    "timeMonth": 124,
+    "timeWeek": 116,
+    "timeMonth": 123,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-02-08": 35,
+      "2026-02-08": 21,
       "2026-02-07": 66,
       "2026-02-06": 21,
       "2026-02-04": 23,
@@ -282,7 +282,7 @@
       "2025-07-03": 15,
       "2025-07-02": 37,
       "2025-07-01": 116,
-      "2025-06-30": 2
+      "2025-06-30": 26
     }
   }
 ]
