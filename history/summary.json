@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bware360.it.ico",
     "slug": "b-ware360",
     "status": "down",
-    "uptime": "79.79%",
+    "uptime": "79.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.89%",
+    "uptimeYear": "62.97%",
     "time": 311,
     "timeDay": 233,
     "timeWeek": 194,
     "timeMonth": 217,
-    "timeYear": 318,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2025-11-18": 442,
       "2025-11-17": 1440,
@@ -174,15 +174,15 @@
     "url": "mqtt.refineair.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "refine-air-mqtt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "95.23%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.60%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "95.16%",
     "time": 125,
     "timeDay": 134,
-    "timeWeek": 136,
+    "timeWeek": 137,
     "timeMonth": 133,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -270,8 +270,7 @@
       "2025-11-17": 19,
       "2025-11-13": 35,
       "2025-11-12": 44,
-      "2025-11-11": 3,
-      "2025-11-08": 23
+      "2025-11-11": 3
     }
   }
 ]
