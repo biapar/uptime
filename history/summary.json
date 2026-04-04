@@ -14,7 +14,7 @@
     "timeDay": 54,
     "timeWeek": 156,
     "timeMonth": 204,
-    "timeYear": 359,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-11-18": 442,
       "2025-11-17": 1440,
@@ -168,9 +168,9 @@
     "url": "mqtt.refineair.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "refine-air-mqtt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "95.40%",
+    "uptimeDay": "95.39%",
     "uptimeWeek": "97.67%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "95.16%",
@@ -261,8 +261,7 @@
       "2025-12-13": 31,
       "2025-12-11": 14,
       "2025-12-10": 21,
-      "2025-12-09": 16,
-      "2025-12-08": 16
+      "2025-12-09": 16
     }
   }
 ]
